@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csGraycat
 - 👀 I’m interested in Backend development, Engineering, Physics
 - 🌱 I’m currently learning Python Backend development, Django
-- 📫 How to reach me: jeffrayman9@gmail.com
+- 📫 How to reach me: csgraycatdev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Love rock climbing!
 
