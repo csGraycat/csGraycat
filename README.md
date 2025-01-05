@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csGraycat
-- 👀 I’m interested in Backend development, Engineering, Physics
-- 🌱 I’m currently learning Python Backend development, Django
+- 👀 I’m interested in Web development & Cyber Security
+- 🌱 I’m currently learning Python Backend development, Django, Flask, HTML, CSS, JavaScript
 - 📫 How to reach me: csgraycatdev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Love rock climbing!
